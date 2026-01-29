@@ -2,7 +2,7 @@
 name: User Story
 about: Add a user story
 title: Epic name - story name
-labels: ToBeRefined
+labels: ToBeRefined # matches exactly upper and lowercase
 assignees: ''
 
 ---
